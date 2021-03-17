@@ -18,3 +18,7 @@
 
 ### 카카오 알림톡
 - Naver NCloud : https://docs.ncloud.com/ko/sens/sens-1-5.html
+
+### 택배 배송 조회
+- 스마트 택배 : https://tracking.sweettracker.co.kr/
+- Daily Tracker : https://tracker.delivery/guide
