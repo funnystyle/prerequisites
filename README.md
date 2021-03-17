@@ -12,3 +12,9 @@
 
 ### 관리자 사이트 템플릿
 - AdminLTE 3 : https://adminlte.io/themes/v3/
+
+### SMS 서비스
+- Naver NCloud : https://docs.ncloud.com/ko/sens/sens-1-3.html
+
+### 카카오 알림톡
+- Naver NCloud : https://docs.ncloud.com/ko/sens/sens-1-5.html
