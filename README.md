@@ -10,5 +10,5 @@
 ### 휴대폰 본인인증
 - 아임포트 : https://docs.iamport.kr/tech/mobile-authentication
 
-### Admin Site Template
-AdminLTE 3 : https://adminlte.io/themes/v3/
+### 관리자 사이트 템플릿
+- AdminLTE 3 : https://adminlte.io/themes/v3/
