@@ -6,3 +6,6 @@
 
 ### 결제 모듈
 - 아임포트 : https://www.iamport.kr/getstarted
+
+### 휴대폰 본인인증
+- 아임포트 : https://docs.iamport.kr/tech/mobile-authentication
